@@ -204,3 +204,35 @@ This demonstrates the **practical application of multimodal AI systems in conver
 * Google Gemini AI Documentation
 * Python Official Documentation
 * Pillow Library Documentation
+
+## How to Run the Project
+
+Follow these steps to run the chatbot on your system.
+
+### 1. Clone the Repository
+git clone https://github.com/aabhachaudhari/multimodal-chatbot-text-image.git
+
+### 2. Open the Project Folder
+cd multimodal-chatbot-text-image
+
+### 3. Create a Virtual Environment
+python -m venv venv
+
+### 4. Activate the Virtual Environment
+
+Windows:
+venv\Scripts\activate
+
+Mac/Linux:
+source venv/bin/activate
+
+### 5. Install Dependencies
+pip install -r requirements.txt
+
+### 6. Add Gemini API Key
+Create a `.env` file and add:
+
+GEMINI_API_KEY=your_api_key_here
+
+### 7. Run the Chatbot
+python app.py
