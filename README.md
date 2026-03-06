@@ -204,12 +204,3 @@ This demonstrates the **practical application of multimodal AI systems in conver
 * Google Gemini AI Documentation
 * Python Official Documentation
 * Pillow Library Documentation
-
----
-
-## 👩‍💻 Author
-
-**Aabha Chaudhari**
-B.Tech Computer Science Engineering
-
----
